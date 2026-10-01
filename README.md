@@ -2,7 +2,7 @@
 
 ## Hi, I'm Atharv
 
-I build with **Python**, explore **Telegram bot development**, and work on **lightweight web projects**. My focus is practical: learn the tools, build something useful, and improve it along the way.
+I'm a **vibe coder** — I turn ideas into small projects with AI assistance, open-source tools and hands-on experimentation. I'm not a traditional developer; I learn by trying things, asking questions and refining what works. My interests include **Telegram bots**, **automation** and **personal websites**.
 
 ### What I'm working on
 
@@ -10,7 +10,7 @@ I build with **Python**, explore **Telegram bot development**, and work on **lig
 - **Web development** — building and customising personal web experiences.
 - **Better project foundations** — clearer documentation, configuration and maintainability.
 
-### Technologies I work with
+### Tools & technologies I explore
 
 `Python` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub` · `Linux`
 
@@ -23,4 +23,4 @@ You'll find personal experiments, learning projects and forks of tools I explore
 
 ---
 
-**Practical projects. Clear documentation. Continuous learning.**
+**Ideas first. AI-assisted building. Learning as I go.**
