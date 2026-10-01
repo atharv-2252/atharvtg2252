@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Atharv Patil. Python, automation and web projects.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#172c40"/></linearGradient></defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="#264557" stroke-width="1"><path d="M820 0v300M920 0v300M1020 0v300M1120 0v300M760 60h440M760 160h440M760 260h440"/></g>
+<rect x="60" y="65" width="42" height="5" rx="2" fill="#5eead4"/>
+<text x="60" y="138" fill="#f1f5f9" font-size="54" font-family="Arial,Helvetica,sans-serif" font-weight="700">Atharv Patil</text>
+<text x="62" y="186" fill="#a7c3d6" font-size="24" font-family="Arial,Helvetica,sans-serif">Python · Automation · Web</text>
+<text x="62" y="242" fill="#5eead4" font-size="17" font-family="Arial,Helvetica,sans-serif" letter-spacing="2">LEARN. BUILD. IMPROVE.</text>
+<g fill="none" stroke="#5eead4" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"><path d="m935 105-45 45 45 45m95-90 45 45-45 45m-35-108-27 126"/></g>
+</svg>
